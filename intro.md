@@ -1,0 +1,4 @@
+- Howdy, my name is Kendall.
+- Currently attending college for Computer Sceince.
+- Currently learning C++ and Python.
+- Enjoy learning new things and challenging myself.
